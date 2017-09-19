@@ -42,8 +42,8 @@
     settings: {
       refreshMillis: 60000,
       allowPast: true,
-      allowFuture: false,
-      localeTitle: false,
+      allowFuture: true,
+      localeTitle: true,
       cutoff: 0,
       autoDispose: true,
       strings: {
